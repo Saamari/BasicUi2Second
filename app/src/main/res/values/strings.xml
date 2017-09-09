@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicUi2Second</string>
+    <string name="login_text">Login:</string>
+    <string name="passwd_text">Password:</string>
+    <string name="login_btn">Login</string>
+    <string name="passwd_hint">Enter password</string>
+    <string name="login_hint">Enter username</string>
+</resources>
